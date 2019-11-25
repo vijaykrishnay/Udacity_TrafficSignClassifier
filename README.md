@@ -106,5 +106,5 @@ The model predicted with an accuracy of 100%. Below is a summary of the predicti
 ![](web_test_probabilities_1.png)
 ![](web_test_probabilities_2.png)
 
-<b>Discussion></b>
+<b>Discussion</b>
 - Increasing model size and adding more synthetic samples could increase the accuracy further.
